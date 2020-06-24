@@ -5,6 +5,17 @@ based systems. This is a clean and minimal dark theme for it.
 
 ![rEFInd Minimalistic Dark](https://i.imgur.com/9xzLxnD.png)
 
+### Contributing
+
+ 1. Add your icon to the `rEFInd-minimal-dark/icons` folder.
+
+ 2. Run the script `./invert_icons.sh icon_1.png icon2.png icon_n.png` using all your new icon names.
+     - Alternatively, run `./invert_icons.sh` to convert *ALL* the icons in `rEFInd-minimal-dark/icons`.
+
+```nginx
+
+```
+
 ### Usage
 
  1. Locate your refind EFI directory. This is commonly `/boot/EFI/refind`
