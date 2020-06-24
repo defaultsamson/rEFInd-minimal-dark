@@ -1,4 +1,4 @@
-## Minimalistic rEFInd dark theme
+## Minimalistic rEFInd Dark Theme
 
 [rEFInd](http://www.rodsbooks.com/refind/) is an easy to use boot manager for UEFI
 based systems. This is a clean and minimal dark theme for it.
@@ -11,10 +11,6 @@ based systems. This is a clean and minimal dark theme for it.
 
  2. Run the script `./invert_icons.sh icon_1.png icon2.png icon_n.png` using all your new icon names.
      - Alternatively, run `./invert_icons.sh` to convert *ALL* the icons in `rEFInd-minimal-dark/icons`.
-
-```nginx
-
-```
 
 ### Usage
 
@@ -58,7 +54,3 @@ The OS icons are from [Lightness for burg][icons] by [SWOriginal][icon-author].
 
 [icons]: http://sworiginal.deviantart.com/art/Lightness-for-burg-181461810
 [icon-author]: http://sworiginal.deviantart.com/
-
-[padster]: https://github.com/theRealPadster
-[wallpaper]: http://leonardoalanb.deviantart.com/art/Minimalist-wallpaper-295519786
-[wallpaper-author]: http://leonardoalanb.deviantart.com/
